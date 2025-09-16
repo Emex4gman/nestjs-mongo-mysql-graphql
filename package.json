@@ -29,7 +29,7 @@
     "@nestjs/sequelize": "^11.0.0",
     "apollo-server-express": "^2.14.1",
     "graphql": "^15.0.0",
-    "graphql-tools": "^6.2.6",
+    "graphql-tools": "^9.0.20",
     "mongoose": "^8.18.1",
     "mysql2": "^3.9.8",
     "reflect-metadata": "^0.1.13",
